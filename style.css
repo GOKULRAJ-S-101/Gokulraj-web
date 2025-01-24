@@ -31,6 +31,7 @@ input{
 }
 img{
     height: 250px;
+    width: 250px;
 }
 .products{
     text-align: center;
